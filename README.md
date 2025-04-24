@@ -12,4 +12,4 @@ This is a full-featured website built with React, integrating smooth client-side
  - React
 - React Router DOM
 - React Hook Form
-- Tailwind CSS / Bootstrap (if you used one)
+- Material UI
